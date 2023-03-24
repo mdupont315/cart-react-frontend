@@ -190,7 +190,20 @@ We using different kinds of the technologies to make this website. These things 
 
 - Javascript, React, Readux, Chakra UI, CSS, HTML etc.
 
+## Sneak Peek of Site
 
+
+
+![App Screenshot 1](https://images2.imgbox.com/42/99/Gb9xX67F_o.png)
+
+![App Screenshot 2](https://images2.imgbox.com/27/60/J10VY0bT_o.png)
+
+![App Screenshot 3](https://images2.imgbox.com/34/fd/xP6wgFVn_o.png)
+
+![App Screenshot 4](https://images2.imgbox.com/60/13/AjICajHg_o.png)
+
+
+![App Screenshot 5](https://images2.imgbox.com/3e/91/Bg87tgUJ_o.png)
 
 ## To work/access the features of this  you have to install the following dependencies in your local system
 
