@@ -1,8 +1,8 @@
-## Project Name -  adventurous-sweater-7809 (Digital Xpress)
+## Project Name -  civil-kettle-7397 (Click Cart)
 
 
 
-Digital Xpress is ECommerce Website & is a clone of Reliance Digital. It is used for buying the electrical products, Home Appliances & other kind of products. Digital Express Digital Stores are bigger in size than the other format Digital Xpress Mini Stores. It is one of the largest electronics retailers in India with over 5,000 products in its inventory.
+Click Cart is E-Commerce Website & is a clone of Flipkart shopping website. Flipkart Private Limited is an Indian e-commerce company, headquartered in Bengaluru, and incorporated in Singapore as a private limited company. The company initially focused on online book sales before expanding into other product categories such as consumer electronics, fashion, home essentials, groceries, and lifestyle products.
 
 
 
