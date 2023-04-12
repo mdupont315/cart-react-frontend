@@ -22,7 +22,7 @@ Visit : https://civil-kettle-7397.vercel.app/
 
 
 
-Digital Xpress webiste looks very amazing and introduced with various type of languages like JavaScript, HTML, CSS etc. There are the some important details regarding with this project which is mentioned below:
+Click Cart webiste looks very amazing and introduced with various type of languages like JavaScript, HTML, CSS etc. There are the some important details regarding with this project which is mentioned below:
 
 
 
