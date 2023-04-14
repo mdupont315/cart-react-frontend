@@ -28,11 +28,11 @@ Click Cart webiste looks very amazing and introduced with various type of langua
 
 <ul dir="auto">
 
- <ol dir="auto">◉ JavaScript : 94.0%</ol>
+ <ol dir="auto">◉ JavaScript : 95.5%</ol>
 
- <ol dir="auto">◉ HTML : 0.6%</ol>
+ <ol dir="auto">◉ HTML : 0.9%</ol>
 
- <ol dir="auto">◉ CSS : 5.4%</ol>
+ <ol dir="auto">◉ CSS : 3.6%</ol>
 
  </ul>
 
