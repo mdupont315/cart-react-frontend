@@ -58,7 +58,7 @@ Click Cart webiste looks very amazing and introduced with various type of langua
 
  
 
- ## Admin Account Details(Admin Email and Password)
+ ## Admin Account Details (Admin Email and Password)
 
  
 
