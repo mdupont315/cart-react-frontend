@@ -102,7 +102,7 @@ Homepage is one of the most important factor which also known by the name of Lan
 
 
 
-### Small Screen : 
+### Small Screen :- 
 
 
 
@@ -112,7 +112,7 @@ Homepage is one of the most important factor which also known by the name of Lan
 
 
 
-### Navbar
+### Navbar :-
 
 
 
@@ -124,7 +124,7 @@ Navigation Bar is the topmost layer or bar of our website. In this bar, you find
 
 
 
-### Small Screen : 
+### Small Screen :- 
 
 
 
