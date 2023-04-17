@@ -159,7 +159,7 @@ Cart Page have all that product which you want to buy. In Product Page you have 
 
 
 
-## Footer
+## Footer :-
 
 
 
@@ -175,7 +175,7 @@ So, this is the footer of our website clone. All the things in quite easy to use
 
 
 
-## Note
+## Note :-
 
 
 
