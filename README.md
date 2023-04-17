@@ -147,7 +147,7 @@ In this section have different kinds of the products & various categories produc
 
 ![image](https://user-images.githubusercontent.com/97522154/214007279-0ec6c82c-4548-490a-bfdb-77e74ba2e52d.png)
 
-## Cart Page 
+## Cart Page :-
 
 
 
