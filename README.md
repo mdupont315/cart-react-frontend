@@ -38,7 +38,7 @@ Click Cart webiste looks very amazing and introduced with various type of langua
 
  
 
- ## Functionalities
+ ## Functionalities :-
 
  
 
@@ -58,7 +58,7 @@ Click Cart webiste looks very amazing and introduced with various type of langua
 
  
 
- ## Admin Account Details (Admin Email and Password)
+ ## Admin Account Details (Admin Email and Password) :-
 
  
 
@@ -88,9 +88,9 @@ This report is provided by the Github language used stats. So, this is the total
 
 
 
-## Features & Specifications
+## Features & Specifications :-
 
-### Homepage
+### Homepage :-
 
 
 
