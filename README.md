@@ -72,7 +72,7 @@ Click Cart webiste looks very amazing and introduced with various type of langua
 
  <ol dir="auto">Admin Email -> eve.holt@reqres.in </ol>
 
- <ol dir="auto">Password - Citysilicka</ol>
+ <ol dir="auto">Password -> Citysilicka</ol>
 
  
 
