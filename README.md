@@ -1,4 +1,4 @@
-## Project Name -  civil-kettle-7397 / 
+## Project Name -  civil-kettle-7397
 ## Website name - Click Cart
 
 
