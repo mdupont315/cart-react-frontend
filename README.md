@@ -4,7 +4,7 @@
 
 
 
-Click Cart is E-Commerce Website & is a clone of Flipkart shopping website. Flipkart Private Limited is an Indian e-commerce company, headquartered in Bengaluru, and incorporated in Singapore as a private limited company. The company initially focused on online book sales before expanding into other product categories such as consumer electronics, fashion, home essentials, groceries, and lifestyle products.
+Click Cart is E-Commerce Website & is a clone of the Flipkart shopping website. Flipkart Private Limited is an Indian e-commerce company, headquartered in Bengaluru, and incorporated in Singapore as a private limited company. The company initially focused on online book sales before expanding into other product categories such as consumer electronics, fashion, home essentials, groceries, and lifestyle products.
 
 
 
@@ -16,10 +16,10 @@ Visit : https://civil-kettle-7397.vercel.app/
 
 ## Tech Stack Used :-
 
-Click Cart webiste looks very amazing and introduced with various types of languages like JavaScript, HTML, CSS etc. There are the some important details regarding with this project which are mentioned below :-
+Click Cart website looks very amazing and is introduced with various types of languages like JavaScript, HTML, CSS, etc. There are some important details regarding this project are mentioned below :-
 
 
-This report is provided by the Github language used stats. So, this is the total percentage of the coding languages. 
+This report is provided by the GitHub language used stats. So, this is the total percentage of the coding languages. 
 <ul dir="auto">
 
  <ol dir="auto">◉ JavaScript : 95.5%</ol>
@@ -77,37 +77,31 @@ The homepage is one of the most important factors which is also known by the nam
 ### Navbar :-
 
 
-Navigation Bar is the topmost layer or bar of the website. In this bar, you will find various types of the menus like Mobile & Tablets, Televisions, Audio, Camera, Home Appliances, Accessories, Personal Care, etc.
+Navigation Bar is the topmost layer or bar of the website. In this bar, you will find various types of the menus like Mobile & Tablets, Televisions, Audio, cameras, Home Appliances, Accessories, Personal Care, etc.
 
 
-## Product Page :-
+### Product Page :-
 
 
-This section has different kinds of products & various categories of products etc. You easily find the product which you have to need.
-
-
-
-## Cart Page :-
+This section has different kinds of products & various categories of products etc. You easily find the product which you need.
 
 
 
-The cart Page has all the products you want to buy. On the Product Page, you have to click on add to cart. The product will be added to the cart Page. A cart page is an essential part of an e-commerce website. It is the page where users can pile up what they want to buy from the website and then simply check out by paying online. To comprehend what a cart page does, think of it as a normal shopping cart in a store.
+### Cart Page :-
 
 
 
-## Footer :-
+The cart Page has all the products you want to buy. On the Product Page, you have to click on add to cart. The product will be added to the cart Page. A cart page is an essential part of an e-commerce website. It is the page where users can pile up what they want to buy from the website and then simply check out by paying online. To comprehend what a cart page does, think of it as a normal shopping cart/basket in a store.
 
 
 
-As you know that every website has a header and footer. Also on this website, we have a pretty good footer that helps you to move the different kinds of important pages.
+### Footer :-
 
 
 
-![image](https://user-images.githubusercontent.com/97522154/214005797-8628bda3-89fc-4c73-8bfd-c9afef3a8664.png)
+As you know that every website has a header and footer. Also on this website, there is a pretty good footer that helps you to move the different kinds of important pages.
 
-
-
-So, this is the footer of our website clone. All the things in quite easy to use as well as mobile, tablet, and desktop. I hope you like these things.
+All the things are quite easy to use on mobiles, tablets, and as well as on desktops. I hope you like these things.
 
 
 
@@ -115,7 +109,7 @@ So, this is the footer of our website clone. All the things in quite easy to use
 
 
 
-This website is fully mobile-friendly. You can use this website on a mobile, tablet either or desktop as well as. You feel very nice when you are using this website.
+This whole website is fully mobile-friendly. You can use this website on mobiles, tablets either or desktops as well as. You feel very nice when you are using this website.
 
 
 
@@ -126,7 +120,7 @@ This website is fully mobile-friendly. You can use this website on a mobile, tab
 
 - Javascript, React, Redux, Chakra UI, CSS, HTML, etc.
 
-## Sneak Peek of deployed website :-
+## Sneak Peek of the deployed website :-
 
 
 
