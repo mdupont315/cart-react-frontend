@@ -135,7 +135,7 @@ This whole website is fully mobile-friendly. You can use this website on mobiles
 
 ![App Screenshot 5](https://images2.imgbox.com/3e/91/Bg87tgUJ_o.png)
 
-## To work/access the features of this  you have to install the following dependencies in your local system
+## To work/access the features of this  you have to install the following dependencies in your local system :-
 
 #### `npm install axios`
 #### `npm install redux`
@@ -160,7 +160,7 @@ https://click-cart-api.onrender.com/
 
 ## For feedback & if you have any suggestions, kindly contact me here :-
 
-- [x] fw19_0691 - Rajat Agrawal - [GitHub Profile](https://github.com/agrawalrajat310) / [LinkedIn](https://www.linkedin.com/in/rajatagrawal310/)
+- [x] Rajat Agrawal - [GitHub Profile](https://github.com/agrawalrajat310) / [LinkedIn](https://www.linkedin.com/in/rajatagrawal310/)
 
 
 
