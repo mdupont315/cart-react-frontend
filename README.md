@@ -1,4 +1,5 @@
 ## Project Name ->  civil-kettle-7397
+
 ## Website name -> Click Cart
 
 
@@ -9,24 +10,16 @@ Click Cart is E-Commerce Website & is a clone of Flipkart shopping website. Flip
 
 ## Deployed Link :-
 
-
-
 Visit : https://civil-kettle-7397.vercel.app/
-
-
 
 ## Responsive for all screen sizes 💻/🖥️/📱
 
-
-
 ## Tech Stack Used :-
-
-
 
 Click Cart webiste looks very amazing and introduced with various type of languages like JavaScript, HTML, CSS etc. There are the some important details regarding with this project which is mentioned below:
 
 
-
+This report is provided by the Github language used stats. So, this is the total percentage of the coding languages. 
 <ul dir="auto">
 
  <ol dir="auto">◉ JavaScript : 95.5%</ol>
@@ -37,15 +30,11 @@ Click Cart webiste looks very amazing and introduced with various type of langua
 
  </ul>
 
- 
+ # Now I will explain the project in detail.
 
  ## Functionalities :-
 
- 
-
  <ul dir="auto">
-
- 
 
  <ol dir="auto">1. Cart Functionality (like adding an item and removing) </ol>
 
@@ -81,11 +70,10 @@ Click Cart webiste looks very amazing and introduced with various type of langua
 
  
 
- ![image](https://user-images.githubusercontent.com/97522154/214007653-2b25072e-ae3d-46c8-81b3-446c0407f1a2.png)
 
 
 
-This report is provided by the Github language used stats. So, this is the total percentage of the coding languages. Now we explain our project in details.
+
 
 
 
