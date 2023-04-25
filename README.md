@@ -36,13 +36,13 @@ This report is provided by the Github language used stats. So, this is the total
 
  <ul dir="auto">
 
- <ol dir="auto">1. Cart Functionality (like adding an item and removing) </ol>
+ <ol dir="auto">1. Cart Functionality (like adding an item and removing). </ol>
 
- <ol dir="auto">2. Admin Page</ol>
+ <ol dir="auto">2. Admin Page.</ol>
 
- <ol dir="auto">3. Admin can add a product product Will be shown on the latest page </ol>
+ <ol dir="auto">3. Admin can add a product product Will be shown on the latest page. </ol>
 
- <ol dir="auto">4. Login and Sign Up </ol>
+ <ol dir="auto">4. Login and Sign Up. </ol>
 
  </ul>
 
@@ -52,7 +52,7 @@ This report is provided by the Github language used stats. So, this is the total
 
  
 
- <p>You can add products by admin account and all the users can see the product on latest page (which contain all the latest items)</p>
+ <p>You can add products by admin account and all the users can see the product on the latest page (which contains all the latest items)</p>
 
  
 
@@ -83,20 +83,12 @@ This report is provided by the Github language used stats. So, this is the total
 
 
 
-Homepage is one of the most important factor which also known by the name of Landing Page. There are different kinds of the Products and populer services are mentioned here. Take a look on it.
+The homepage is one of the most important factors which is also known by the name "Landing Page". There are different kinds of Products and popular services mentioned here. Take a look at it.
 
-
-
-![image](https://user-images.githubusercontent.com/97522154/214004365-b4201ea2-9842-4460-8a15-471a41b2d02e.png)
 
 
 
 ### Small Screen :- 
-
-
-
-![image](https://user-images.githubusercontent.com/97522154/214005203-af365563-09d6-4ddb-9b95-dc38fb1d7892.png)
-
 
 
 
@@ -105,7 +97,7 @@ Homepage is one of the most important factor which also known by the name of Lan
 
 
 
-Navigation Bar is the topmost layer or bar of our website. In this bar, you find the various types of the menus like Mobile & Tablets , Television, Audio, Camera, Home Appliances, Accessories, Personal Care etc.
+Navigation Bar is the topmost layer or bar of our website. In this bar, you find various types of the menus like Mobile & Tablets, Televisions, Audio, Camera, Home Appliances, Accessories, Personal Care, etc.
 
 
 
@@ -121,7 +113,7 @@ Navigation Bar is the topmost layer or bar of our website. In this bar, you find
 
 
 
-It is a cart Page where you find the different kinds of the products which products you added in your cart. Take a look on that.
+It is a cart Page where you find the different kinds of products which products you added to your cart. Take a look at that.
 
 
 
@@ -129,7 +121,7 @@ It is a cart Page where you find the different kinds of the products which produ
 
 
 
-In this section have different kinds of the products & various categories products etc. You easily find the product which you have to need.
+This section has different kinds of products & various categories of products etc. You easily find the product which you have to need.
 
 
 
@@ -140,7 +132,7 @@ In this section have different kinds of the products & various categories produc
 
 
 
-Cart Page have all that product which you want to buy. In Product Page you have to click on add to cart. Product will added in cart Page. A cart page is an essential part of an e-commerce website. It is the page where users can pile up what they want to buy from the website and then simply checkout by paying online. To comprehend what a cart page does, think of it as a normal shopping cart in a store.
+The cart Page has all the products you want to buy. On the Product Page, you have to click on add to cart. The product will be added to the cart Page. A cart page is an essential part of an e-commerce website. It is the page where users can pile up what they want to buy from the website and then simply check out by paying online. To comprehend what a cart page does, think of it as a normal shopping cart in a store.
 
 
 
@@ -152,7 +144,7 @@ Cart Page have all that product which you want to buy. In Product Page you have 
 
 
 
-As you know that every website have the header and footer. Also in this this website, we have a pretty good footer which helps you to move the different kinds of the important pages.
+As you know that every website has a header and footer. Also on this website, we have a pretty good footer that helps you to move the different kinds of important pages.
 
 
 
@@ -160,7 +152,7 @@ As you know that every website have the header and footer. Also in this this web
 
 
 
-So, this is the footer of our website clone. All the things in quite easy to use as well as mobile, tablet and desktop. We hope you like these things.
+So, this is the footer of our website clone. All the things in quite easy to use as well as mobile, tablet, and desktop. I hope you like these things.
 
 
 
@@ -168,16 +160,16 @@ So, this is the footer of our website clone. All the things in quite easy to use
 
 
 
-This website is fully mobile friendly. You can use this website in mobile, tablet either desktop as well as. You feels very nice when you are using this website.
+This website is fully mobile-friendly. You can use this website on a mobile, tablet either or desktop as well as. You feel very nice when you are using this website.
 
 
 
 Things Used
 
 
-We using different kinds of the technologies to make this website. These things are as follows:
+We use different kinds of technologies to make this website. These things are as follows:
 
-- Javascript, React, Readux, Chakra UI, CSS, HTML etc.
+- Javascript, React, Redux, Chakra UI, CSS, HTML, etc.
 
 ## Sneak Peek of Site
 
@@ -216,14 +208,12 @@ We using different kinds of the technologies to make this website. These things 
 
 https://click-cart-api.onrender.com/
 
-## Contributors :-
 
+## For feedback & i fyou have any suggestions, kindly contact me here :-
 
 - [x] fw19_0691 - Rajat Agrawal - [GitHub Profile](https://github.com/agrawalrajat310) / [LinkedIn](https://www.linkedin.com/in/rajatagrawal310/)
-- [x] fp06_152 - Abhishek Swami - [GitHub Profile](https://github.com/abhi-swami) / [LinkedIn](https://www.linkedin.com/in/abhishek-swami/)
-- [x] fw20_0366 - Sristy Verma - [GitHub Profile](https://github.com/SristyVerma) / [LinkedIn](https://www.linkedin.com/in/sristy-verma/)
-- [x] fw20_0525 - Sumit Kumar - [GitHub Profile](https://github.com/sumitkprasad123) / [LinkedIn](https://www.linkedin.com/in/sumit-kumar123/)
-- [x] fw20_0015 - Vinay Digarse - [GitHub Profile](https://github.com/vinaydigarse) / [LinkedIn](https://www.linkedin.com/in/vinay-digarse-a983051a0/)
+
+
 
 
 
