@@ -12,11 +12,11 @@ Click Cart is E-Commerce Website & is a clone of Flipkart shopping website. Flip
 
 Visit : https://civil-kettle-7397.vercel.app/
 
-## Responsive for all screen sizes 💻/🖥️/📱
+## Responsive for all screen sizes 💻/🖥️/📱.
 
 ## Tech Stack Used :-
 
-Click Cart webiste looks very amazing and introduced with various type of languages like JavaScript, HTML, CSS etc. There are the some important details regarding with this project which is mentioned below:
+Click Cart webiste looks very amazing and introduced with various types of languages like JavaScript, HTML, CSS etc. There are the some important details regarding with this project which are mentioned below :-
 
 
 This report is provided by the Github language used stats. So, this is the total percentage of the coding languages. 
@@ -40,7 +40,7 @@ This report is provided by the Github language used stats. So, this is the total
 
  <ol dir="auto">2. Admin Page.</ol>
 
- <ol dir="auto">3. Admin can add a product product Will be shown on the latest page. </ol>
+ <ol dir="auto">3. Admin can add a product and the product will be shown on the landing page. </ol>
 
  <ol dir="auto">4. Login and Sign Up. </ol>
 
@@ -58,23 +58,11 @@ This report is provided by the Github language used stats. So, this is the total
 
   <ul dir="auto">
 
- 
-
  <ol dir="auto">Admin Email -> eve.holt@reqres.in </ol>
 
  <ol dir="auto">Password -> Citysilicka</ol>
 
- 
-
  </ul>
-
- 
-
-
-
-
-
-
 
 
 ## Features & Specifications :-
@@ -83,60 +71,27 @@ This report is provided by the Github language used stats. So, this is the total
 
 
 
-The homepage is one of the most important factors which is also known by the name "Landing Page". There are different kinds of Products and popular services mentioned here. Take a look at it.
-
-
-
-
-### Small Screen :- 
-
-
+The homepage is one of the most important factors which is also known by the name "Landing Page". There are different kinds of Products and popular services mentioned here. 
 
 
 ### Navbar :-
 
 
-
-Navigation Bar is the topmost layer or bar of our website. In this bar, you find various types of the menus like Mobile & Tablets, Televisions, Audio, Camera, Home Appliances, Accessories, Personal Care, etc.
-
-
-
-![image](https://user-images.githubusercontent.com/97522154/214004921-ac555b3a-248a-41b5-8b55-7d8ab017e9bc.png)
-
-
-
-### Small Screen :- 
-
-
-
-![image](https://user-images.githubusercontent.com/97522154/214005398-f128c69b-cced-40d0-8c2a-6aed5330035d.png)
-
-
-
-It is a cart Page where you find the different kinds of products which products you added to your cart. Take a look at that.
-
+Navigation Bar is the topmost layer or bar of the website. In this bar, you will find various types of the menus like Mobile & Tablets, Televisions, Audio, Camera, Home Appliances, Accessories, Personal Care, etc.
 
 
 ## Product Page :-
-
 
 
 This section has different kinds of products & various categories of products etc. You easily find the product which you have to need.
 
 
 
-
-![image](https://user-images.githubusercontent.com/97522154/214007279-0ec6c82c-4548-490a-bfdb-77e74ba2e52d.png)
-
 ## Cart Page :-
 
 
 
 The cart Page has all the products you want to buy. On the Product Page, you have to click on add to cart. The product will be added to the cart Page. A cart page is an essential part of an e-commerce website. It is the page where users can pile up what they want to buy from the website and then simply check out by paying online. To comprehend what a cart page does, think of it as a normal shopping cart in a store.
-
-
-
-![image](https://user-images.githubusercontent.com/97522154/214007996-64f8eae6-f463-4119-8521-689233c54d16.png)
 
 
 
@@ -164,14 +119,14 @@ This website is fully mobile-friendly. You can use this website on a mobile, tab
 
 
 
-Things Used
 
 
-We use different kinds of technologies to make this website. These things are as follows:
+
+### I have used different kinds of technologies/ libraries/ frameworks to make this website. 
 
 - Javascript, React, Redux, Chakra UI, CSS, HTML, etc.
 
-## Sneak Peek of Site
+## Sneak Peek of deployed website :-
 
 
 
@@ -209,7 +164,7 @@ We use different kinds of technologies to make this website. These things are as
 https://click-cart-api.onrender.com/
 
 
-## For feedback & i fyou have any suggestions, kindly contact me here :-
+## For feedback & if you have any suggestions, kindly contact me here :-
 
 - [x] fw19_0691 - Rajat Agrawal - [GitHub Profile](https://github.com/agrawalrajat310) / [LinkedIn](https://www.linkedin.com/in/rajatagrawal310/)
 
